@@ -1,0 +1,45 @@
+nav, article, aside, footer section {
+    margin: 0 auto;
+    width: 900px;
+}
+
+nav {
+    margin-top: 25px;
+}
+
+aside {
+    padding-top: 30px;
+    padding-bottom: 60px
+}
+
+h2 {
+    margin-top: 50px;
+}
+
+main p {
+    margin: 20px 0px;
+}
+
+.print {
+    padding-left: 30px;
+    float: right;
+}
+
+.recipe {
+    padding: 37px 0 0 60px;
+    margin: 40px 0;
+}
+
+footer section p{
+    padding: 50px 0;
+    text-align: center;
+}
+
+#logo {
+    float: left;
+    padding-bottom: 25px;
+}
+
+nav ul {
+    float: right;
+}
